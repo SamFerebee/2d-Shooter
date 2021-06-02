@@ -1,0 +1,43 @@
+﻿  Game.cpp
+C:\Users\Sam\source\repos\frameRateIndependence\frameRateIndependence\Game.cpp(143,63): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Sam\source\repos\frameRateIndependence\frameRateIndependence\Game.cpp(143,43): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Sam\source\repos\frameRateIndependence\frameRateIndependence\Game.cpp(364,69): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Sam\source\repos\frameRateIndependence\frameRateIndependence\Game.cpp(364,49): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Sam\source\repos\frameRateIndependence\frameRateIndependence\Game.cpp(372,68): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Sam\source\repos\frameRateIndependence\frameRateIndependence\Game.cpp(372,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Sam\source\repos\frameRateIndependence\frameRateIndependence\Game.cpp(429,91): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Sam\source\repos\frameRateIndependence\frameRateIndependence\Game.cpp(429,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Sam\source\repos\frameRateIndependence\frameRateIndependence\Game.cpp(602,20): warning C4018: '<': signed/unsigned mismatch
+  frameRateIndependence.vcxproj -> C:\Users\Sam\source\repos\frameRateIndependence\Debug\frameRateIndependence.exe
